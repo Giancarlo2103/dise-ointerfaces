@@ -1,0 +1,47 @@
+body{
+  margin: 0 auto;
+  font-family: sans-serif ;
+  background-image: url(../img/fondo.png);
+  background-repeat: no-repeat;
+  background-size: 56%;
+  overflow: hidden;
+}
+
+
+.fondo_x{
+  width: 56%;
+  height: 850px;
+}
+ .fondo_x1{
+   position: absolute;
+   right: 0px;
+   top: -32px
+ }
+
+ .footer{
+   width: 100%;
+   height: 90px;
+   background-color: purple;
+   position: relative;
+   top: 727px;
+ }
+
+.campusevolution{
+  text-transform: uppercase;
+  color: #28950b;
+  position: relative;
+  top: 200px;
+  left: 1072px;
+}
+
+.formulario{
+  text-align: center;
+  position: absolute;
+  margin: 19%;
+  left: 798px;
+  font-size: 25px;
+}
+
+.enviar{
+  cursor: pointer;
+}
