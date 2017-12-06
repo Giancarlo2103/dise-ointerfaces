@@ -45,3 +45,7 @@ body{
 .enviar{
   cursor: pointer;
 }
+
+.olvidaste{
+  font-size: 14px;
+}
